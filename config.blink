@@ -1,0 +1,3 @@
+datasource {
+  key       = env("BLINK_PRIVATE_KEY")
+}
